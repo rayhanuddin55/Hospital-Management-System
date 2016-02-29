@@ -1,0 +1,34 @@
+c:\users\rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+c:\users\rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+c:\users\rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+c:\users\rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+c:\users\rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+c:\users\rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+c:\users\rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+c:\users\rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+c:\users\rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.DepertmentRegistration.resources
+c:\users\rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.staffRegistration.resources
+c:\users\rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StaffPayroll.resources
+c:\users\rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ParantForm.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.RoomEntry.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.supplier.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.MedicineRegistration.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ShowAllSupplierWindow.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.MedicineInventory.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.MedicinePurchaseBill.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.OutPatient.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.InPatient.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PrescribeFood.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ShowAvailableRoom.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ReportOfDepertment.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ReportOfSalary.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ReportOfInPatient.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ReportOfSupplier.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ReportOfStaff.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ReportOfRoom.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ReportOfMedicineInventory.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AboutBox.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.LogIn.resources
+C:\Users\Rayhan\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Login_Registration.resources
+C:\Users\Rayhan\Documents\Visual Studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\RdlCompile.cache
+C:\Users\Rayhan\Documents\Visual Studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\RdlCompile.compiled
